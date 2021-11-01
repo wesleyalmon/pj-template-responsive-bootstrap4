@@ -1,0 +1,13 @@
+body{
+    background-color: #ccc;
+}
+
+.container.all{
+    background-color: #fff;
+}
+.h-100{
+    height: 600px !important;
+}
+.mt-sm-5{
+    margin-top: 6rem !important;
+}
